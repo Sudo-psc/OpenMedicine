@@ -1,0 +1,41 @@
+A ideia por trás do projeto 🇧🇷
+Este aplicativo ser desenvolvido para um contexto de economia instável, onde indivíduos podem enfrentar dificuldades no acesso à saúde e serviços de emergência por diversos motivos. O objetivo do aplicativo é estabelecer um fluxo de atendimento gratuito para aqueles que não têm condições de pagar por consultas com enfermeiros ou médicos, oferecendo o melhor suporte possível por meio de inteligência artificial, ao mesmo tempo em que comunica claramente os riscos e encaminha os usuários para serviços presenciais mais próximos, quando necessário.
+
+A inteligência artificial pode auxiliar em situações diversas, desde o tratamento de um resfriado comum até o acolhimento de pacientes com sintomas de menor gravidade. Além disso, a IA pode encaminhar os usuários para o serviço médico mais próximo ou para uma consulta de telemedicina com um profissional ao vivo.
+
+O modelo de cobrança será flexível, com a intenção de que o atendimento por IA seja totalmente gratuito, enquanto as consultas ao vivo por telemedicina com profissionais qualificados sejam cobradas por hora de uso ou por consulta. Algoritmos de IA serão utilizados para calcular o modelo de cobrança mais adequado, garantindo o melhor atendimento pelo menor preço possível. Todo o algoritmo de IA e cobrança por atendimento deve ser de código aberto e aprovado pela comunidade.
+
+Embora o projeto não seja inteiramente filantrópico, a rentabilidade do modelo de telemedicina ajudará a sustentar as atividades gratuitas oferecidas pelo aplicativo.
+
+The idea behind the project 🇺🇸 
+The project was conceptualized to address the challenges faced by individuals in an unstable economic climate where access to health and emergency services is hindered due to various reasons.
+
+The application aims to provide seamless care to those who cannot afford to pay for consultations with healthcare professionals by utilizing cutting-edge artificial intelligence. This innovative solution offers the best possible support while clearly communicating the risks and referring users to nearby face-to-face services when necessary.
+
+The AI-powered system can cater to a wide range of healthcare needs, from treating common colds to caring for patients with less severe symptoms. It can also direct users to the nearest medical facility or arrange a telemedicine consultation with a qualified professional.
+
+The billing model is flexible, with AI care being completely free, while live telemedicine consultations are charged per hour or per consultation. The AI algorithms will calculate the most appropriate billing model, ensuring that users receive the best service at the lowest possible price.
+
+To maintain transparency, all AI algorithms and billing per service will be open source and approved by the community. Although the project is not entirely philanthropic, the profitability of the telemedicine model will help support the free activities offered by the app.
+
+🇺🇦 Ідея за проектом
+Проект було розроблено з метою вирішення проблем, з якими стикаються люди в нестабільному економічному середовищі, де доступ до медичних та екстрених послуг ускладнений з різних причин.
+
+Додаток має на меті забезпечити безшовне обслуговування тим, хто не може собі дозволити оплату консультацій з медичними фахівцями, використовуючи передові штучні інтелектуальні системи. Це інноваційне рішення пропонує найкращу можливу підтримку, чітко повідомляючи про ризики та направляючи користувачів до найближчих послуг очної консультації, коли це необхідно.
+
+Система на основі штучного інтелекту може задовольнити широкий спектр медичних потреб, від лікування звичайного застуди до догляду за пацієнтами з менш важкими симптомами. Вона також може направити користувачів до найближчого медичного закладу або організувати консультацію з телемедицини з кваліфікованим фахівцем.
+
+Модель оплати гнучка, з безкоштовним обслуговуванням на основі ШІ, тоді як живі консультації з телемедицини оплачуються за годину або за консультацію. Алгоритми ШІ розрахують найбільш відповідну модель оплати, забезпечуючи користувачам найкращий сервіс за найнижчою можливою ціною.
+
+Для забезпечення прозорості всі алгоритми ШІ та оплата за послуги будуть відкритими і схваленими спільнотою. Хоча проект не є повністю благодійним, прибутковість моделі телемедицини допоможе підтримувати безкоштовні діяльності, які пропонує додаток.
+
+🇪🇸 La idea detrás del proyecto
+El proyecto fue conceptualizado para abordar los desafíos que enfrentan las personas en un clima económico inestable, donde el acceso a la atención médica y los servicios de emergencia se ve obstaculizado por diversas razones.
+
+La aplicación tiene como objetivo proporcionar atención integral a aquellos que no pueden pagar las consultas con profesionales de la salud utilizando inteligencia artificial de vanguardia. Esta solución innovadora ofrece el mejor apoyo posible, comunicando claramente los riesgos y derivando a los usuarios a servicios presenciales cercanos cuando sea necesario.
+
+El sistema impulsado por inteligencia artificial puede atender una amplia gama de necesidades de atención médica, desde el tratamiento de resfriados comunes hasta el cuidado de pacientes con síntomas menos graves. También puede dirigir a los usuarios al centro médico más cercano o coordinar una consulta de telemedicina con un profesional calificado.
+
+El modelo de facturación es flexible, con atención de IA completamente gratuita, mientras que las consultas de telemedicina en vivo se cobran por hora o por consulta. Los algoritmos de IA calcularán el modelo de facturación más adecuado, asegurando que los usuarios reciban el mejor servicio al precio más bajo posible.
+
+Para mantener la transparencia, todos los algoritmos de IA y la facturación por servicio serán de código abierto y aprobados por la comunidad. Aunque el proyecto no es completamente filantrópico, la rentabilidad del modelo de telemedicina ayudará a respaldar las actividades gratuitas ofrecidas por la aplicación.
